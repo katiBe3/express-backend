@@ -8,7 +8,8 @@ This data can later be used for machine learning and more!🤖
 * Leverages Supabase to store the data.
 
 ## Setup
-Make sure to create your own .env file with your SUPABASE secret. Add foreign API if necessary.
+Make sure to create your own `.env` file with your SUPABASE secret. Add foreign API key if necessary.
+You have to rename `someApi.ts`. Add data fetching logic here.
 ```sh
 git clone https://github.com/katiBe3/express-backend.git
 cd express-backend
