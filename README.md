@@ -4,7 +4,7 @@ Express Server starter to continuously fetch data and store it in Supabase db.ğŸ
 ## ğŸ Features
 * Express Server with Type Script configured.
 * Uses dotenv to manage environment variables.
-* Leverages Supabase to store the Etsy data.
+* Leverages Supabase to store the data.
 
 ## Setup
 ```sh
