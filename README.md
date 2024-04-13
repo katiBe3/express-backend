@@ -1,5 +1,10 @@
 # rankcraft-backend
-Express Server to continously fetch Etsy market data.🪄
+Express Server to continuously fetch Etsy market data and store it in Supabase db.🪄
+
+## 🎁 Features
+* Express Server with Type Script configured.
+* Uses dotenv to manage environment variables.
+* Leverages Supabase to store the Etsy data.
 
 ## Setup
 ```sh
@@ -14,10 +19,6 @@ Compile and start server:
 npm run build
 npm run start
 ```
-## 🎁 Features
-* Express Server with Type Script configured.
-* Uses dotenv to manage environment variables.
-* Leverages Supabase to store the Etsy data.
 
 ## Tech stack
 - [Express Server](https://expressjs.com/de/)
