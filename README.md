@@ -24,6 +24,7 @@ npm run start
 - [Express Server](https://expressjs.com/de/)
 - [Type Script](https://www.typescriptlang.org/)
 - [Supabase](https://supabase.com/)
+- [Dotenv](https://www.dotenv.org/)
 
 ## Requirements
 
