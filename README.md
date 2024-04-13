@@ -9,6 +9,8 @@ Express Server to continuously fetch Etsy market data and store it in Supabase d
 ## Setup
 ```sh
 git clone https://github.com/katiBe3/rankcraft-backend.git
+cd rankcraft-backend
+npm i
 ```
 Run dev mode: 
 ```sh
