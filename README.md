@@ -27,6 +27,7 @@ npm run start
 - [Type Script](https://www.typescriptlang.org/)
 - [Supabase](https://supabase.com/)
 - [Dotenv](https://www.dotenv.org/)
+- [AVA](https://github.com/avajs/ava) for blazing fast unit tests.
 
 ## Requirements
 
