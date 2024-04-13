@@ -1,5 +1,6 @@
-# rankcraft-backend
-Express Server starter to continuously fetch data and store it in Supabase db.🪄
+# express-backend
+Express Server starter to continuously fetch data from your favorite API and store it in Supabase db.🪄
+This data can later be used for machine learning and more!🤖
 
 ## 🎁 Features
 * Express Server with Type Script configured.
@@ -7,6 +8,7 @@ Express Server starter to continuously fetch data and store it in Supabase db.�
 * Leverages Supabase to store the data.
 
 ## Setup
+Make sure to create your own .env file with your SUPABASE secret. Add foreign API if necessary.
 ```sh
 git clone https://github.com/katiBe3/express-backend.git
 cd express-backend
